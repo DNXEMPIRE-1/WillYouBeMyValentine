@@ -17,4 +17,3 @@ The "Will You Be My Valentine" project is designed to create a memorable and hea
 - **Sharing Options:**
   - Share your virtual card via email, social media, or as a printable PDF.
 
-## How to Use
