@@ -1,4 +1,4 @@
-# Will You Be My Valentine Project 💖🌹
+# Will You Be My Valentine 💖🌹
 
 Welcome to the "Will You Be My Valentine" project! This project is a fun and creative way to express your feelings to your special someone on Valentine's Day.
 
