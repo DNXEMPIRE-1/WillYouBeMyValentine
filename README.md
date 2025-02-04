@@ -1,8 +1,8 @@
-# Will You Be My Valentine Project 💖🌹
+# Will You Be My Valentine  💖🌹
 
 Welcome to the "Will You Be My Valentine" project! This project is a fun and creative way to express your feelings to your special someone on Valentine's Day.
 
-## Overview
+## Overview 
 
 The "Will You Be My Valentine" project is designed to create a memorable and heartfelt experience for your loved one. It allows you to customize and personalize a virtual Valentine's Day card, complete with romantic messages, photos, and interactive elements.
 
